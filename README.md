@@ -1,0 +1,1 @@
+In this project I will be attempting to visualy re-create the Google home page using my basic level HTML and CSS skills.
